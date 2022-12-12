@@ -7,6 +7,9 @@ spring:
         git:
           default-label: main
           uri: https://github.com/jamessonfaria/ms-course-configs
+          username: ${GITHUB_USER}
+          password: ${GITHUB_PASS}
+
 
 server:
   port: 8888
