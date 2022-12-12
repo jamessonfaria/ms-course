@@ -30,3 +30,6 @@ zuul:
     payroll:
       serviceId: hr-payroll
       path: /hr-payroll/**
+    user:
+      serviceId: hr-user
+      path: /hr-user/**
