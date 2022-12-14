@@ -11,7 +11,7 @@
   </parent>
   <groupId>br.com.jamesson</groupId>
   <artifactId>hr-worker</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>0.0.1-SNAPSHOT</version>
   <name>hr-worker</name>
   <description>Worker Microservice</description>
 
